@@ -7,6 +7,6 @@ void func_1()
 
 int main(int argc, char** argv) 
 {
-	std::cout<<"Hello, WorLd!"<<std::endl;
+	std::cout<<"_Hello, WorLd!_"<<std::endl;
 	return 0;
 }
