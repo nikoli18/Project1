@@ -1,5 +1,10 @@
 #include <iostream>
 
+void func_2()
+{
+	
+}
+
 void func_1()
 {
 	std::cout<<"function start"<<std::endl;
